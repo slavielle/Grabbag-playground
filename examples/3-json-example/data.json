@@ -1,0 +1,60 @@
+[
+  {
+    "name": "John",
+    "food": {
+      "liked": {
+        "fruits": [
+          "apple",
+          "banana",
+          "orange"
+        ]
+      },
+      "hated": {
+        "fruits": [
+          "mango",
+          "strawberry",
+          "pear"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Mary",
+    "food": {
+      "liked": {
+        "fruits": [
+          "apple",
+          "strawberry",
+          "cherry",
+          "orange"
+        ]
+      },
+      "hated": {
+        "fruits": [
+          "banana",
+          "mango",
+          "pear"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Tom",
+    "food": {
+      "liked": {
+        "fruits": [
+          "banana",
+          "kiwi",
+          "peach"
+        ]
+      },
+      "hated": {
+        "fruits": [
+          "apple",
+          "mango",
+          "pear"
+        ]
+      }
+    }
+  }
+]
