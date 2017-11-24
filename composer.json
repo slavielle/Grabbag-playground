@@ -1,0 +1,16 @@
+{
+    "name": "slavielle/grabbag-playground",
+    "description": "Grabbag playground for examples and performance tests",
+    "type": "project",
+    "require": {
+        "slavielle/grabbag": "master-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sylvain Lavielle",
+            "email": "sylvain.lavielle@netelios.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
